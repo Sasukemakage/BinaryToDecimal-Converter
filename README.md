@@ -23,5 +23,3 @@ def convert(l):
         intNumber += nbr
     return intNumber
 ```
-
-First, we create the variable 
