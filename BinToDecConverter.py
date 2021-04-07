@@ -10,6 +10,3 @@ def convert(l):
             nbr = 2**i
         intNumber += nbr
     return intNumber
-
-print(convert([1,0,1,0,0,1,1]))
-print(convert([1,0,1,0]))
